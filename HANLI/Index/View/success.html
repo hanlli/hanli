@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>操作成功</h1>
+<p><?php echo $msg;?></p>
+<span>还有<span id="time"><?php echo $time ;?></span>秒跳转<a href="javascript:<?php echo $url; ?>"></a>跳转也可以点击<a href="<?php __ROOT__ ;?>">返回首页</a></span>
+</body>
+<script>
+    window.onload=function () {
+        var el = window.document.getElementById("time");
+           _time = el.innerHTML;
+        endtime = function () {
+            _time--;
+            if(_time<0){
+               <?php echo $url  ;?>
+            }
+            el.innerHTML=_time;
+        }
+        setInterval("endtime()",1000);
+    }
+</script>
+</html>

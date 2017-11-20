@@ -1,0 +1,14 @@
+[TIME]:2017-01-17 22:01:09ERROR:D:/xampp/htdocs/web/HANLI/Admin/Controller/ActController.class.php控制器未找到！
+[TIME]:2017-01-17 22:01:15ERROR:mysql错误:Unknown column 'pwd' in 'field list'<br/>SQL:insert into `hl_user` (`user`,`pwd`) value ('hanli','hajjj')
+[TIME]:2017-01-17 22:01:57ERROR:mysql错误:Unknown column 'pwd' in 'field list'<br/>SQL:insert into hl_user (`user`,`pwd`) value ('hanli','hajjj')
+[TIME]:2017-01-17 22:07:25ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(`user`,`psd`) value ('hanbbb','hajjj')' at line 1<br/>SQL:insert into  (`user`,`psd`) value ('hanbbb','hajjj')
+[TIME]:2017-01-17 22:07:50ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(`user`,`psd`) value ('hanbbb','hajjj')' at line 1<br/>SQL:insert into  (`user`,`psd`) value ('hanbbb','hajjj')
+[TIME]:2017-01-17 22:07:51ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(`user`,`psd`) value ('hanbbb','hajjj')' at line 1<br/>SQL:insert into  (`user`,`psd`) value ('hanbbb','hajjj')
+[TIME]:2017-01-17 22:07:51ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(`user`,`psd`) value ('hanbbb','hajjj')' at line 1<br/>SQL:insert into  (`user`,`psd`) value ('hanbbb','hajjj')
+[TIME]:2017-01-17 22:18:07ERROR:syntax error, unexpected '$this' (T_VARIABLE)D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第52行
+[TIME]:2017-01-17 22:19:19ERROR:syntax error, unexpected '$link' (T_VARIABLE)D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第52行
+[TIME]:2017-01-17 22:23:37ERROR:syntax error, unexpected '$this' (T_VARIABLE)D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第53行
+[TIME]:2017-01-17 22:25:08ERROR:Call to undefined method Model::opt()D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第51行
+[TIME]:2017-01-17 23:06:15ERROR:syntax error, unexpected '=>' (T_DOUBLE_ARROW)D:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第4行
+[TIME]:2017-01-17 23:09:17ERROR:mysql错误:Column count doesn't match value count at row 1<br/>SQL:INSERT INTO hl_user ()VALUE ( 'hanhh','123412','127.0.0.1')
+[TIME]:2017-01-17 23:20:53ERROR:mysql错误:Column count doesn't match value count at row 1<br/>SQL:INSERT INTO hl_user ()VALUE ('hanhh','123412','127.0.0.1')

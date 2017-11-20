@@ -1,0 +1,6 @@
+[TIME]:2017-01-22 00:00:12ERROR:Call to undefined method IndexController::disply()D:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第5行
+[TIME]:2017-01-22 00:14:19ERROR:模板不存在！！！
+[TIME]:2017-01-22 00:15:27ERROR:Call to undefined function _get_path()D:\xampp\htdocs\web\HANLI\HANLIPHP\Lib\Core\Controller.class.php第28行
+[TIME]:2017-01-22 00:17:01ERROR:Call to undefined function _get_path()D:\xampp\htdocs\web\HANLI\HANLIPHP\Lib\Core\Controller.class.php第28行
+[TIME]:2017-01-22 00:17:05ERROR:Call to undefined function _get_path()D:\xampp\htdocs\web\HANLI\HANLIPHP\Lib\Core\Controller.class.php第28行
+[TIME]:2017-01-22 00:41:13ERROR:请先开启Smarty！

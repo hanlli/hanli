@@ -1,0 +1,28 @@
+[TIME]:2017-01-21 11:45:24ERROR:D:/xampp/htdocs/web/HANLI/Admin/Controller/ActController.class.php控制器未找到！
+[TIME]:2017-01-21 11:45:29ERROR:Call to undefined method Model::update()D:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第5行
+[TIME]:2017-01-21 11:46:52ERROR:执行delete语句必须有where条件！！
+[TIME]:2017-01-21 12:01:24ERROR:syntax error, unexpected '=', expecting ')'D:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第5行
+[TIME]:2017-01-21 12:02:15ERROR:syntax error, unexpected 'update' (T_STRING)D:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第8行
+[TIME]:2017-01-21 12:02:31ERROR:syntax error, unexpected '='D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第57行
+[TIME]:2017-01-21 12:03:27ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SET hl_user `user`='peipei',`psd`='520111' WHERE id=2' at line 1<br/>SQL:UPDATE SET hl_user `user`='peipei',`psd`='520111' WHERE id=2
+[TIME]:2017-01-21 12:10:23ERROR:数据不能为空！！
+[TIME]:2017-01-21 12:10:35ERROR:数据不能为空！！
+[TIME]:2017-01-21 12:18:39ERROR:Call to undefined method Model::wehre()D:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第6行
+[TIME]:2017-01-21 12:29:02ERROR:syntax error, unexpected '}'D:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第8行
+[TIME]:2017-01-21 12:29:16ERROR:D:/xampp/htdocs/web/HANLI/HANLIPHP/Extends/Tool/UserModel.class.php类未找到！
+[TIME]:2017-01-21 12:37:47ERROR:D:/xampp/htdocs/web/HANLI/HANLIPHP/Extends/Tool/UserModel.class.php类未找到！
+[TIME]:2017-01-21 12:38:00ERROR:D:/xampp/htdocs/web/HANLI/HANLIPHP/Extends/Tool/UserModel.class.php类未找到！
+[TIME]:2017-01-21 12:39:23ERROR:D:/xampp/htdocs/web/HANLI/Common/Model/UserModel.class.php模型类未找到！
+[TIME]:2017-01-21 12:41:08ERROR:D:/xampp/htdocs/web/HANLI/HANLIPHP/Extends/Tool/Medol.class.php类未找到！
+[TIME]:2017-01-21 12:41:12ERROR:D:/xampp/htdocs/web/HANLI/HANLIPHP/Extends/Tool/Medol.class.php类未找到！
+[TIME]:2017-01-21 12:45:34ERROR:Call to undefined method UserModel::get_all_date()D:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第5行
+[TIME]:2017-01-21 12:45:52ERROR:mysql错误:Table 'hanli.hl_' doesn't exist<br/>SQL:SELECT * FROM hl_
+[TIME]:2017-01-21 12:47:33ERROR:mysql错误:Table 'hanli.hl_$table' doesn't exist<br/>SQL:SELECT * FROM hl_$table
+[TIME]:2017-01-21 12:48:07ERROR:Cannot access empty propertyD:\xampp\htdocs\web\HANLI\Common\Model\UserModel.class.php第5行
+[TIME]:2017-01-21 12:48:09ERROR:Cannot access empty propertyD:\xampp\htdocs\web\HANLI\Common\Model\UserModel.class.php第5行
+[TIME]:2017-01-21 12:48:23ERROR:mysql错误:Table 'hanli.hl_hl_user' doesn't exist<br/>SQL:SELECT * FROM hl_hl_user
+[TIME]:2017-01-21 12:52:37ERROR:Cannot redeclare d() (previously declared in D:\xampp\htdocs\web\HANLI\HANLIPHP\Lib\Function\function.php:121)D:\xampp\htdocs\web\HANLI\Common\Lib\han.php第4行
+[TIME]:2017-01-21 12:52:40ERROR:Cannot redeclare d() (previously declared in D:\xampp\htdocs\web\HANLI\HANLIPHP\Lib\Function\function.php:121)D:\xampp\htdocs\web\HANLI\Common\Lib\han.php第4行
+[TIME]:2017-01-21 12:53:22ERROR:Call to a member function get_all_data() on nullD:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第4行
+[TIME]:2017-01-21 12:57:04ERROR:D:/xampp/htdocs/web/HANLI/Common/Model/UserModelModel.class.php模型类未找到！
+[TIME]:2017-01-21 13:20:35ERROR:Call to undefined method SmartyConnect::_construct()D:\xampp\htdocs\web\HANLI\HANLIPHP\Lib\Core\Controller.class.php第5行

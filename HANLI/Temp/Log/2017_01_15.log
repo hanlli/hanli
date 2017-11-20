@@ -1,0 +1,35 @@
+[TIME]:2017-01-15 09:42:15ERROR:D:/xampp/htdocs/web/HANLI/Admin/Controller/ActController.class.php控制器未找到！
+[TIME]:2017-01-15 10:15:52ERROR:syntax error, unexpected '}'D:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第5行
+[TIME]:2017-01-15 10:16:54ERROR:syntax error, unexpected '}'D:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第5行
+[TIME]:2017-01-15 10:25:17ERROR:syntax error, unexpected '}'D:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第5行
+[TIME]:2017-01-15 11:53:53ERROR:Call to undefined method mysqli::connect_error()D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第14行
+[TIME]:2017-01-15 11:55:10ERROR:Call to undefined method mysqli::connect_error()D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第14行
+[TIME]:2017-01-15 11:56:19ERROR:syntax error, unexpected 'halt' (T_STRING)D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第14行
+[TIME]:2017-01-15 11:56:56ERROR:请先配置数据库！
+[TIME]:2017-01-15 11:57:14ERROR:数据连接错误 请检查配置项！
+[TIME]:2017-01-15 18:09:21ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2from hl_user' at line 1<br/>SQL:select * 2from hl_user
+[TIME]:2017-01-15 18:29:00ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'fromhl_user' at line 1<br/>SQL:select *fromhl_user
+[TIME]:2017-01-15 18:30:03ERROR:Class name must be a valid object or a stringD:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第5行
+[TIME]:2017-01-15 18:30:27ERROR:Class name must be a valid object or a stringD:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第5行
+[TIME]:2017-01-15 18:30:27ERROR:Class name must be a valid object or a stringD:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第5行
+[TIME]:2017-01-15 18:30:28ERROR:Class name must be a valid object or a stringD:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第5行
+[TIME]:2017-01-15 18:32:59ERROR:Cannot use [] for readingD:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第21行
+[TIME]:2017-01-15 18:45:20ERROR:Call to a member function all() on nullD:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第4行
+[TIME]:2017-01-15 18:46:25ERROR:Call to a member function all() on stringD:\xampp\htdocs\web\HANLI\Index\Controller\IndexController.class.php第4行
+[TIME]:2017-01-15 18:47:18ERROR:mysql错误:Unknown column 'ipfrom' in 'field list'<br/>SQL:select ipfrom hl_user
+[TIME]:2017-01-15 18:51:35ERROR:mysql错误:Table 'hanli.hl_user1' doesn't exist<br/>SQL:select ip from hl_user1
+[TIME]:2017-01-15 19:19:53ERROR:mysql错误:Unknown column 'hhhh' in 'where clause'<br/>SQL:SELECT * FROM hl_user WHERE user=hhhh HAVING psd=123
+[TIME]:2017-01-15 19:20:48ERROR:mysql错误:Unknown column 'hhhh' in 'where clause'<br/>SQL:SELECT * FROM hl_user WHERE user=hhhh
+[TIME]:2017-01-15 19:21:32ERROR:mysql错误:Unknown column 'hhhh' in 'where clause'<br/>SQL:SELECT * FROM hl_user WHERE user=hhhh
+[TIME]:2017-01-15 19:21:33ERROR:mysql错误:Unknown column 'hhhh' in 'where clause'<br/>SQL:SELECT * FROM hl_user WHERE user=hhhh
+[TIME]:2017-01-15 19:22:11ERROR:mysql错误:Unknown column 'hhhh' in 'where clause'<br/>SQL:SELECT * FROM hl_user WHERE user=hhhh HAVING psd=123
+[TIME]:2017-01-15 19:37:20ERROR:mysql错误:Unknown column '$id' in 'where clause'<br/>SQL:SELECT * FROM hl_user WHERE id = $id  LIMIT 1
+[TIME]:2017-01-15 19:38:10ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '}  LIMIT 1' at line 1<br/>SQL:SELECT * FROM hl_user WHERE id = {$id}  LIMIT 1
+[TIME]:2017-01-15 19:38:35ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '} LIMIT 1' at line 1<br/>SQL:SELECT * FROM hl_user WHERE id = {$id} LIMIT 1
+[TIME]:2017-01-15 19:38:36ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '} LIMIT 1' at line 1<br/>SQL:SELECT * FROM hl_user WHERE id = {$id} LIMIT 1
+[TIME]:2017-01-15 19:38:57ERROR:syntax error, unexpected '='D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第40行
+[TIME]:2017-01-15 19:39:28ERROR:syntax error, unexpected '='D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第40行
+[TIME]:2017-01-15 19:39:29ERROR:syntax error, unexpected '='D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第40行
+[TIME]:2017-01-15 19:39:30ERROR:syntax error, unexpected '='D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第40行
+[TIME]:2017-01-15 19:43:12ERROR:Using $this when not in object contextD:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第37行
+[TIME]:2017-01-15 19:43:37ERROR:syntax error, unexpected 'static' (T_STATIC), expecting identifier (T_STRING)D:\xampp\htdocs\web\HANLI\HANLIPHP\Extends\Tool\Model.class.php第35行

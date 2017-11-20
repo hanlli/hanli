@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>提示页面</title>
+</head>
+<body>
+<h1>:(!</h1>
+<p><?php echo $e['message'];?></p>
+<?php if(DEBUG && isset($e['file'])):?>
+<h2>错误位置:</h2>
+
+<p>FILE:<?php echo $e['file'].'<br/>LINE:'.$e['line'];?></p>
+<?php endif ?>
+<?php if(isset($e['trace'])):?>
+<h2>TRACE:</h2>
+<p><?php echo nl2br($e['trace']);?></p>
+<?php endif ?>
+<span>开源框架&nbsp;&nbsp;<span><?php echo HANLI_VERSION;?></span></span>
+</body>
+</html>
