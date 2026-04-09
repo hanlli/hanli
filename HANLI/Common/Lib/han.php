@@ -4,5 +4,5 @@
   }
   function seed($var)
   {
-      echo $var;
+      echo $var;;;;
   }
