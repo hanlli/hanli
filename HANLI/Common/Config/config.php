@@ -8,7 +8,7 @@
         'DB_PORT'          =>3306,
         'DB_USER'          =>'root',
         'DB_PASSWORD'      =>'',
-        'DB_DATABASE'      =>'hanli',
+        'DB_DATABASE'      =>'hanli12122123213',
         'DB_PREFIX'        =>'hl_'
    );
 ?>  
